@@ -25,6 +25,6 @@ There will be no backend/api calls. All these informations will be stored in red
 
 ## Pages:
 
-Login page
-Home page
+Login page,
+Home page &
 Add product page
